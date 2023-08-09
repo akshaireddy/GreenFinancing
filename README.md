@@ -1,4 +1,4 @@
-# Reatil CBDC Smart Contract Template BBN Testnet
+# Green Financing Smart Contract Template BBN Testnet
 
 # 1. Project Setup
 
